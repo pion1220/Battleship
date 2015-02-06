@@ -17,6 +17,8 @@ public class Battleship {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("test");
+        System.out.print("test");
+        System.out.printf("test");
     }
     
 }
